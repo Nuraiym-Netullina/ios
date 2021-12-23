@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "portrait-woman-hoodie-hugging-her-dog-pink-background-cheerful-lady-grey-sweatshirt-widely-smiles-poses-with-corgi-isolated 1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

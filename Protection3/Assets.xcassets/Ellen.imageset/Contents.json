@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "people-pets-domestic-animals-friendship-love-care-concept-isolated-image-cute-young-european-woman-red-jumper-holding-right-sphynx-cat-pressing-adorable-pet-her-chest-smiling 1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
